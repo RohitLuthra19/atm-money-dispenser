@@ -1,0 +1,10 @@
+.header-wrapper {
+  background-color: #2b4270;
+}
+
+.header {
+  font-size: 30PX;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}

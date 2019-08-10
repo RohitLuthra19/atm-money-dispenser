@@ -1,0 +1,51 @@
+.wrapper {
+  background-color: #fff;
+  width: 100%;
+}
+
+.main {
+  background-color: rgb(202, 203, 214);
+  display: flex;
+  height: 100%;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.money-input {
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border: 1px solid rgb(161, 156, 156); 
+  padding: 10px;
+  text-align: right;
+}
+
+.input-header {
+  font-size: 12px;
+  color: rgb(78, 76, 76);
+  margin:5px 0; 
+}
+
+.get-money-btn {
+  color: #fff;
+  background-color: rgb(25, 60, 136);
+  border: none;
+  margin: 10px 0;
+  padding: 20px;
+  width: 100%;
+}
+
+.output {
+
+}
+
+.error {
+  color: red;
+}
+
+.disabled {
+  background-color: cornflowerblue;
+}
